@@ -1,3 +1,3 @@
 # WEB-Projects-CSS
 Website Views
-Software Requirements: Windows, Notepad
+Software Requirements: Microsoft Windows, Notepad.
